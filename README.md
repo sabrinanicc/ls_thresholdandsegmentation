@@ -7,9 +7,9 @@ The inputs for this tool are an NDVI change detection map, DEM and post-event RG
 # Description
 This toolbox can be used to threshold and segment RGB images for the purpose of landslide detection. This thresholding method removes flat areas and area of no-change in the imagery so as to reduce the amount of false-positives when classifying the imagery for landslide detection purposes. 
 
-![TEST](Seg1.JPEG)
+![TEST](Seg1.jpg)
 
-![TEST](Seg2.JPEG)
+![TEST](Seg2.jpg)
 
 
 # Installation
